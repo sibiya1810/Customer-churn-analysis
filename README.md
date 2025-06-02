@@ -49,7 +49,7 @@ The Power BI dashboard includes the following interactive pages:
 ![Dashboard Overview](/images/Overview.png)
 ![Demographics](/images/Demographics.png)
 ![Subscription](/images/Subscriptions.png)
-![Contract Terms](/images/Contract Terms.png)
+![Contract Terms](/images/Contract%20Terms.png)
 ---
 
 ## 💡 Key Insights
